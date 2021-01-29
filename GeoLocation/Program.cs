@@ -28,7 +28,12 @@ namespace GeoLocation
             // Determines the position of the device and updates accordingly
             watcher.PositionChanged += (s, e) =>
             {
+                watcher.Stop();
+
                 Console.WriteLine($"GeoCoordinateWatcher:PositionChanged:{e.Position.Location}");
+
+                // Use the Map Image REST Api
+                MapImage.Show(e.Position.Location);
             };
 
             // This is the threshold with respect to initial or previous position after whic we ask for the latest position
