@@ -1,0 +1,7 @@
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\bin\Debug\GeoLocation.exe.config
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\bin\Debug\GeoLocation.exe
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\bin\Debug\GeoLocation.pdb
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\obj\Debug\GeoLocation.csprojAssemblyReference.cache
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\obj\Debug\GeoLocation.csproj.CoreCompileInputs.cache
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\obj\Debug\GeoLocation.exe
+C:\codeClinic_c_sharp\geoLocatorApp\GeoLocation\obj\Debug\GeoLocation.pdb
