@@ -1,5 +1,5 @@
 # geo-locator
-This task involves developing a geo-location application to show the location of the machine running the respective code.
+Here, we have developed a geo-location application to show the location of the machine running the respective code along with the map-image file depicting the horizon of accuracy for the location of the machine.
 
 ## Note
 Make sure the location access settings are enabled for the device running the respective code.
